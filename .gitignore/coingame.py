@@ -1,5 +1,5 @@
 import random
-def coinToss():
+def coinToss():                               # defining the file name
     number = input("Number of times to flip coin: ")
     recordList = []
     heads = 0
